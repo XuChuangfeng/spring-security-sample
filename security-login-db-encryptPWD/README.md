@@ -2,11 +2,6 @@
 ----------
 [Spring Security 入门：基于数据库验证](http://www.jianshu.com/p/d425f8031f83)
 
-Github 地址
------
-https://github.com/ChinaSilence/any-spring-security
-本文对应 [security-login-db-encryptPWD](https://github.com/ChinaSilence/any-spring-security/tree/master/security-login-db-encryptPWD)
-
 摘要
 -----
 解决2个问题：
@@ -15,11 +10,6 @@ https://github.com/ChinaSilence/any-spring-security
 
 运行程序
 ------
-1、clone 代码
-```
-git clone https://github.com/ChinaSilence/any-spring-security.git
-```
-
 2、启动应用
 ```
 mvn spring-boot:run

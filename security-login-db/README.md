@@ -6,18 +6,8 @@
 ------
 本文是 spring security 与 mybatis 的整合，实现基于数据库的登录校验，使用 mariadb（ mysql 通用，不用改任何代码），希望对你有所帮助！
 
-Github地址
--------
-https://github.com/ChinaSilence/any-spring-security/tree/master/security-login-db
-
 运行程序
 ------
-1、clone 代码
-```
-git clone https://github.com/ChinaSilence/any-spring-security.git
-cd security-login-db
-```
-
 2、建数据库,名称为 any
 ```
 create database any;

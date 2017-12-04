@@ -14,9 +14,6 @@ APP Key|2a0f820407df400b84a854d054be8b6a
 > 提醒：因为回调地址不是 http://localhost ，所以在启动我提供的demo时，需要在host文件中添加一行：
 127.0.0.1 www.ictgu.cn
 
-### Github 地址
-https://github.com/ChinaSilence/any-spring-security
-
 ### 运行应用
 1、进入 security-oauth2-qq 目录，执行：
 ```

@@ -2,10 +2,6 @@
 -----
 Spring Security 比较复杂，愿与各位一起研究使用，有歧义的地方，欢迎指出，谢谢！
 
-Github 地址
------
-https://github.com/ChinaSilence/any-spring-security.git
-
 启动应用
 -----
 
