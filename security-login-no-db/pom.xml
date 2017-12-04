@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <start-class>com.spring4all.Application</start-class>
+        <start-class>com.xuchuangfeng.Application</start-class>
     </properties>
 
     <parent>
